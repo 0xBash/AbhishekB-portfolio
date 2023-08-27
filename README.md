@@ -2,7 +2,11 @@
 
 ![hekur](https://github.com/0xBash/AbhishekB-portfolio/blob/main/hacktheplanet.gif)For Good!
 
-## Practical Skills
+# Certification
+
+  Google Cybersecurity Professional Certification (Ongoing)
+
+# Practical Skills
 
 Here are my project briefs.
 
@@ -13,3 +17,4 @@ Here are my project briefs.
 [3] Antivirus-free, Python-scripted ~ Keylogger :key::lock::page_facing_up:
 
  
+# Soft Skills
