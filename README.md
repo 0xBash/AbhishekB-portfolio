@@ -2,7 +2,7 @@
 
 ![hekur](https://github.com/0xBash/AbhishekB-portfolio/blob/main/hacktheplanet.gif)For Good!
 
-# My Practical Skills
+## Practical Skills
 
 Here are my project briefs.
 
