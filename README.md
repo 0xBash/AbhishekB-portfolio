@@ -2,4 +2,4 @@
 
 ![hekur](https://github.com/0xBash/AbhishekB-portfolio/blob/main/hacktheplanet.gif)For Good!
 
-Here are my Briefs on Projects.
+Here are my project briefs.
