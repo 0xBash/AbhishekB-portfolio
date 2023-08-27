@@ -8,6 +8,6 @@ Here are my project briefs.
 
 [2] Intrusion Detection Lab setup using SNORT :pig_nose: :pig2:.
 
-[3] Antivirus-free, Python-scripted ~ Keylogger
+[3] Antivirus-free, Python-scripted ~ Keylogger :key: :lock: :page_facing_up:
 
  
