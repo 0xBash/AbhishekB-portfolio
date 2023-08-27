@@ -4,6 +4,7 @@
 
   Google Cybersecurity Professional Certification (Ongoing)
 
+
 # Practical Skills
 
 Here are my project briefs.
