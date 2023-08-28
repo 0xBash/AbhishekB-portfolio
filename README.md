@@ -2,21 +2,43 @@
 
 # Certification
 
-  Google Cybersecurity Professional Certification (Ongoing)
+  - Google Cybersecurity Professional Certification (Ongoing)
 
+# Projects
+
+  Briefs:
+
+ - ❎ Predicting Malware based on Malicious URL Links using Public Dataset. ^(Ongoing)^
+ - ✔️ Intrusion Detection Lab setup using SNORT.
+ - ✔️ Antivirus-free, Python-Scripted Keylogger.
+      
+🔗 Malware Prediction from URLs using URLhaus
+
+🔗 HOME LAB: Intrusion Detection using SNORT.
+
+🔗 Antivirus-free, Python-Scripted Keylogger.
 
 # Practical Skills
+- 🐍 Python Scripting; scapy
+- 🐽 Snort as Intrusion Detection System
+- 🔍 Reconnaissance: Open Source Intelligence
+- 
 
-Here are my project briefs.
-
-- [ ] Predicting Malware based on Malicious URL Links using Public Dataset.(Ongoing)
-- [x] Intrusion Detection Lab setup using SNORT.
-- [x] Antivirus-free, Python-Scripted Keylogger.
-[1] Predicting Malware based on Malicious URL Links using Public Dataset.(Ongoing)
-
-[2] Intrusion Detection Lab setup using SNORT.
-
-[3] Antivirus-free, Python-Scripted Keylogger.
-
- 
 # Soft Skills
+
+ - Persistent
+ - Analyszer
+ - Thinker
+
+# Cyber Security Meetups
+
+  - Bsides Ahmedabad 0x3, 0x4(upcoming)
+  - InfosecWriteup IWCON 2022
+  - 
+# Courses and Trainings
+
+  - TCM Academy API Hacking (ongoing)
+  - (ISC)~2~ Certified In Cybersecurity
+
+# Capture The Flag
+  - Advent Of Cyber 2022, picoCTF, TryHackMe
