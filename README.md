@@ -28,7 +28,7 @@
 - 🐍 Python Scripting; scapy
 - 🐽 Snort as Intrusion Detection System
 - 🔍 Reconnaissance: Open Source Intelligence
-- 
+- 🤖 OWASP Top 10 - API Hacking
 
 # Soft Skills
 
@@ -40,7 +40,7 @@
 
   - Bsides Ahmedabad 0x3, 0x4(upcoming)
   - InfosecWriteup IWCON 2022
-  - 
+    
 # Courses and Trainings
 
   - TCM Academy API Hacking (ongoing)
