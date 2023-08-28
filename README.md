@@ -11,12 +11,16 @@
  - ❎ Predicting Malware based on Malicious URL Links using Public Dataset. ^(Ongoing)^
  - ✔️ Intrusion Detection Lab setup using SNORT.
  - ✔️ Antivirus-free, Python-Scripted Keylogger.
-      
-🔗 Malware Prediction from URLs using URLhaus
+ - ✔️ ARP Spoofer using Scapy
 
-🔗 HOME LAB: Intrusion Detection using SNORT.
+# Project Repositories
 
-🔗 Antivirus-free, Python-Scripted Keylogger.
+🔗 ![HOME LAB: Intrusion Detection using SNORT](https://github.com/0xBash/IDS-Home-Lab)
+
+🔗 ![Antivirus-free Keylogger](https://github.com/0xBash/Antivirus-Free-Keylogger)
+
+🔗 ![Spoofing Scripting Attacks](https://github.com/0xBash/pyjects)
+
 
 # Practical Skills
 - 🐍 Python Scripting; scapy
