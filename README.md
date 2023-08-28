@@ -35,9 +35,9 @@
 
 🏚️[HOME LAB: Intrusion Detection using SNORT](https://github.com/0xBash/IDS-Home-Lab#readme)
 
-🔑[Antivirus-free Keylogger](https://github.com/0xBash/Antivirus-Free-Keylogger)
+🔑[Antivirus-free Keylogger](https://github.com/0xBash/Antivirus-Free-Keylogger/blob/main/README.md)
 
-🤖[Spoofing Scripting Attacks](https://github.com/0xBash/pyjects)
+🤖[Spoofing Scripting Attacks](https://github.com/0xBash/pyjects/blob/main/README.md)
 
 
 # Practical Skills
