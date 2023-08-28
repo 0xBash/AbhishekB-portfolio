@@ -1,4 +1,4 @@
-# Welcome to Abhishek Bhatt's Portfolio Linked
+# Welcome to Abhishek Bhatt's Portfolio
 
 <h3 align="middle">Connect with me:</h3>
 <p align="middle">
@@ -8,6 +8,13 @@
 # Certification
 
   - Google Cybersecurity Professional Certification <sup>Ongoing</sup>
+
+# My (ISC)<sup>2</sup>CC certification Learnings
+
+- Understands Security Principles; Governance, Compliance, Risk Management.
+- Theoretical understanding on Incident Response, Business Continuity, Disaster Management.
+- Network Security
+- Security Operations
 
 # Projects
 
@@ -33,6 +40,8 @@
 - 🐽 Snort as Intrusion Detection System
 - 🔍 Reconnaissance: Open Source Intelligence
 - 🤖 OWASP Top 10 - API Hacking
+  
+
 
 # Soft Skills
 
@@ -50,7 +59,7 @@
 # Courses and Trainings
 
   - TCM Academy API Hacking <sup>Ongoing</sup>
-  - (ISC)<sub>2</sub> Certified In Cybersecurity
+  - (ISC)<sub>2</sub> Certified In Cybersecurity - Self paced Course
 
 # Capture The Flag
   - Advent Of Cyber 2022, picoCTF, TryHackMe
