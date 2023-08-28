@@ -15,7 +15,7 @@
 
 # Project Repositories
 
-🔗 ![HOME LAB: Intrusion Detection using SNORT](https://github.com/0xBash/IDS-Home-Lab)
+🔗 ![HOME LAB: Intrusion Detection using SNORT](https://github.com/0xBash/IDS-Home-Lab#readme)
 
 🔗 ![Antivirus-free Keylogger](https://github.com/0xBash/Antivirus-Free-Keylogger)
 
@@ -42,7 +42,7 @@
 # Courses and Trainings
 
   - TCM Academy API Hacking (ongoing)
-  - (ISC)~2~ Certified In Cybersecurity
+  - (ISC)<sub>2</sub> Certified In Cybersecurity
 
 # Capture The Flag
   - Advent Of Cyber 2022, picoCTF, TryHackMe
