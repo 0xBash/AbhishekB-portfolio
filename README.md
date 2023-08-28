@@ -17,21 +17,22 @@
 # My (ISC)<sup>2</sup>CC certification Learnings
 
 - Understands Security Principles; Governance, Compliance, Risk Management.
-- Theoretical understanding on Incident Response, Business Continuity, Disaster Management.
+    > Basic understanding of ISO 27001 and NIST Framework.
+- Theoretical understanding on
+    > Incident Response, Business Continuity, Disaster Management.
 - Network Security
 - Security Operations
 
-# Projects
 
-  Briefs:
+# Projects
 
  -  Predicting Malware based on Malicious URL Links using Public Dataset. <sup>Ongoing</sup>
  - ✔️ Intrusion Detection Lab setup using SNORT.
  - ✔️ Antivirus-free, Python-Scripted Keylogger.
  - ✔️ ARP Spoofer using Scapy
 
-# Project Repositories
 
+# Project Repositories
 
 🏚️[HOME LAB: Intrusion Detection using SNORT](https://github.com/0xBash/IDS-Home-Lab#readme)
 
@@ -45,7 +46,6 @@
 - 🐽 Snort as Intrusion Detection System
 - 🔍 Reconnaissance: Open Source Intelligence
 - 🤖 OWASP Top 10 - API Hacking
-  
 
 
 # Soft Skills
@@ -56,15 +56,18 @@
  - Ethical Decision Making
  - Continuous Learning
 
+
 # Cyber Security Meetups
 
   - Bsides Ahmedabad 0x3, 0x4<sup>upcoming</sup>
   - InfosecWriteup IWCON 2022
+
     
 # Courses and Trainings
 
   - TCM Academy API Hacking <sup>Ongoing</sup>
   - (ISC)<sub>2</sub> Certified In Cybersecurity - Self paced Course
+
 
 # Capture The Flag
   - Advent Of Cyber 2022, picoCTF, TryHackMe
