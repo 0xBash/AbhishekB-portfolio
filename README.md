@@ -25,7 +25,7 @@
 
   Briefs:
 
- - ❎ Predicting Malware based on Malicious URL Links using Public Dataset. <sup>Ongoing</sup>
+ -  Predicting Malware based on Malicious URL Links using Public Dataset. <sup>Ongoing</sup>
  - ✔️ Intrusion Detection Lab setup using SNORT.
  - ✔️ Antivirus-free, Python-Scripted Keylogger.
  - ✔️ ARP Spoofer using Scapy
