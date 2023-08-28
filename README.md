@@ -14,12 +14,13 @@
  - ✔️ ARP Spoofer using Scapy
 
 # Project Repositories
+
 HOME LAB: Intrusion Detection using SNORT
 ![🔗](https://github.com/0xBash/IDS-Home-Lab#readme)
-
-🔗 ![Antivirus-free Keylogger](https://github.com/0xBash/Antivirus-Free-Keylogger)
-
-🔗 ![Spoofing Scripting Attacks](https://github.com/0xBash/pyjects)
+Antivirus-free Keylogger
+![🔗](https://github.com/0xBash/Antivirus-Free-Keylogger)
+Spoofing Scripting Attacks
+![🔗](https://github.com/0xBash/pyjects)
 
 
 # Practical Skills
