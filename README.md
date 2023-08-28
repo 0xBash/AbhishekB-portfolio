@@ -8,8 +8,7 @@
 </p>
 <p align="middle">
 <img align="center" src="hacktheplanet.gif">
-
-
+</p>
 
 # Certification
 
