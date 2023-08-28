@@ -2,13 +2,13 @@
 
 # Certification
 
-  - Google Cybersecurity Professional Certification (Ongoing)
+  - Google Cybersecurity Professional Certification <sup>Ongoing</sup>
 
 # Projects
 
   Briefs:
 
- - ❎ Predicting Malware based on Malicious URL Links using Public Dataset. ^(Ongoing)^
+ - ❎ Predicting Malware based on Malicious URL Links using Public Dataset. <sup>Ongoing</sup>
  - ✔️ Intrusion Detection Lab setup using SNORT.
  - ✔️ Antivirus-free, Python-Scripted Keylogger.
  - ✔️ ARP Spoofer using Scapy
@@ -16,14 +16,11 @@
 # Project Repositories
 
 
+🏚️[HOME LAB: Intrusion Detection using SNORT](https://github.com/0xBash/IDS-Home-Lab#readme)
 
-[🔗HOME LAB: Intrusion Detection using SNORT](https://github.com/0xBash/IDS-Home-Lab#readme)
+🔑[Antivirus-free Keylogger](https://github.com/0xBash/Antivirus-Free-Keylogger)
 
-
-[🔗Antivirus-free Keylogger](https://github.com/0xBash/Antivirus-Free-Keylogger)
-
-
-[🔗Spoofing Scripting Attacks](https://github.com/0xBash/pyjects)
+🤖[Spoofing Scripting Attacks](https://github.com/0xBash/pyjects)
 
 
 # Practical Skills
@@ -34,18 +31,20 @@
 
 # Soft Skills
 
- - Persistent
- - Analyszer
- - Thinker
+ - Curious
+ - Adaptable
+ - Analytical Thinking
+ - Ethical Decision Making
+ - Continuous Learning
 
 # Cyber Security Meetups
 
-  - Bsides Ahmedabad 0x3, 0x4(upcoming)
+  - Bsides Ahmedabad 0x3, 0x4<sup>upcoming</sup>
   - InfosecWriteup IWCON 2022
     
 # Courses and Trainings
 
-  - TCM Academy API Hacking (ongoing)
+  - TCM Academy API Hacking <sup>Ongoing</sup>
   - (ISC)<sub>2</sub> Certified In Cybersecurity
 
 # Capture The Flag
