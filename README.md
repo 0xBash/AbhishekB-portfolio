@@ -9,6 +9,7 @@
 </p>
 <p align="middle">
 <img align="center" src="hacktheplanet.gif">
+<img src="https://tryhackme-badges.s3.amazonaws.com/abh1sh.ek.png" alt="TryHackMe">
 </p>
 
 # Certification
